@@ -10,5 +10,5 @@
 - 💬 Ask me about .code , tea and plants
 - 📫 How to reach me: tshepi.jm@gmail.com
 - 😄 Pronouns: the Oprah of developers
-- ⚡ Fun fact: love tea
+- ⚡ Fun fact: 👩🏽‍🍳Fabulous Cuisine 🥘 Soul Food 🍴Exploring Restaurants 
 
