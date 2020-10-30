@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-**tshepimoloko/tshepimoloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**tshepimoloko/tshepimoloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->`
 
 - 🔭 I’m currently working on housing app 
 - 🌱 I’m currently learning app and web developments and python 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tshepi.jm@gmail.com
 - 😄 Pronouns: the Oprah of developers
 - ⚡ Fun fact: love tea
--->
+
