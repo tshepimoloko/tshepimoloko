@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on housing and tracking app 
 - 🌱 I’m currently learning app and web developments and python 
-- 👯 I’m looking to collaborate on fintech projects
+- 👯 I’m looking to collaborate on fintech projects and databases
 - 🤔 I’m looking for help with integration of front and back end
 - 💬 Ask me about .code , tea and plants
 - 📫 How to reach me: tshepi.jm@gmail.com
