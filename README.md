@@ -3,7 +3,7 @@
 <!--
 **tshepimoloko/tshepimoloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->`
 
-- 🔭 I’m currently working on housing and tracking app 
+- 🔭 I’m currently working on housing and tracking app and monitoring web logs with Elasticsearch
 - 🌱 I’m currently learning app and web developments and python 
 - 👯 I’m looking to collaborate on fintech projects and databases
 - 🤔 I’m looking for help with integration of front and back end in machine learning
