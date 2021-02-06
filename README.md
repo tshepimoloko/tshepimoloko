@@ -9,6 +9,5 @@
 - 🤔 I’m looking for help with integration of front and back end in machine learning
 - 💬 Ask me about .code and tea 
 - 📫 How to reach me: tshepi.jm@gmail.com
-- 😄 Pronouns: Missed my calling as a psychologist so became Oprah of developers - with the most contagious optimism
 - ⚡ Fun fact: 👩🏽‍🍳Fabulous Cuisine 🥘 AI 🍴Exploring Machine Learning
 
